@@ -38,4 +38,4 @@ const books = (state = initialState, action) => {
   }
 };
 
-export default books;
+export default books
