@@ -1,1 +1,4 @@
-# ontrack-rn-test-books
+# How to install
+
+npm install
+expo start
